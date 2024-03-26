@@ -2,6 +2,7 @@ import React from 'react';
 import Cafe from '../Cafe/Cafe';
 import "./CafeList.css";
 
+// rsf + Tab => creates skeleton of React Compenent
 function CafeList({cafes}) {
   return (
     <div className="cafe-list">

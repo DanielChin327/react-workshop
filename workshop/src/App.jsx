@@ -1,4 +1,5 @@
 // Backend API endpoint: https://matcha-and-keyboard-f549965e60e7.herokuapp.com/api/v1/cafes
+import "./App.css";
 import Navbar from "./components/Navbar";
 import Sidebar from ".components/Sidebar/Sidebar.jsx";
 import Cafelist from ".components/Cafelist/Cafelist";

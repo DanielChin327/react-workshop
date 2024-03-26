@@ -1,0 +1,27 @@
+{
+  "name": "react-workshop",
+  "version": "1.0.0",
+  "description": "Let's build an app listing dev-friendly cafes in Tokyo ☕️",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielChin327/react-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielChin327/react-workshop/issues"
+  },
+  "homepage": "https://github.com/DanielChin327/react-workshop#readme",
+  "keywords": [],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.6"
+  }
+}
